@@ -30,4 +30,12 @@ pipeline.log
 data_loader.log
 
 # Backup files
-*_backup.* 
+*_backup.*
+
+# Model and graph files
+*.pt
+edge_index.pt
+edge_types.pt
+edge_weights.pt
+node_features.pt
+node_labels.pt 
