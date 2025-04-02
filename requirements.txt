@@ -1,0 +1,9 @@
+pandas
+numpy
+transformers
+textblob
+spacy
+tqdm
+requests
+yfinance
+yahoo_fin 

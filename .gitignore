@@ -1,0 +1,33 @@
+# Data files
+data/*.csv
+data/*.joblib
+data/*.pt
+data/*.log
+data/backup/
+data/training_history/
+data/models/
+
+# Prediction files
+predictions/*.png
+predictions/*.csv
+predictions/*.txt
+
+# Evaluation files
+evaluation/*.csv
+evaluation/*.json
+
+# Visualization files
+visualizations/**/*
+
+# System files
+.DS_Store
+__pycache__/
+venv/
+
+# Log files
+*.log
+pipeline.log
+data_loader.log
+
+# Backup files
+*_backup.* 
