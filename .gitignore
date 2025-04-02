@@ -38,4 +38,7 @@ edge_index.pt
 edge_types.pt
 edge_weights.pt
 node_features.pt
-node_labels.pt 
+node_labels.pt
+
+# News data files
+fetch_news_data.txt 
