@@ -41,4 +41,13 @@ node_features.pt
 node_labels.pt
 
 # News data files
-fetch_news_data.txt 
+fetch_news_data.txt
+
+# API keys and secrets
+.env
+*.env
+.env.local
+.env.*.local
+secrets.json
+credentials.json
+config.json 
